@@ -1,6 +1,18 @@
 # speech_reverb.ko
 This repository includes scripts for reverberation WAV file creation.
 
+fv01_t01_s01: 
+![alt text](https://github.com/homink/speech_reverb/blob/master/fv01_t01_s01.PNG)
+
+rev1_fv01_t01_s01: 
+![alt text](https://github.com/homink/speech_reverb/blob/master/rev1_fv01_t01_s01.PNG)
+
+rev2_fv01_t01_s01: 
+![alt text](https://github.com/homink/speech_reverb/blob/master/rev2_fv01_t01_s01.PNG)
+
+rev3_fv01_t01_s01: 
+![alt text](https://github.com/homink/speech_reverb/blob/master/rev3_fv01_t01_s01.PNG)
+
 ## Dependency
 
 [kaldi](https://github.com/kaldi-asr/kaldi)
