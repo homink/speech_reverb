@@ -80,7 +80,7 @@ rev3_fv01_t01_s10.wav
 * db_string : RIR (Room Impulse Response) databases used for the reverberation wav file creation
               You may want to try aalto, c4dm, mardy and varechoic which are not tested yet.
               
-* base_rirs="simulated" :simulated RIRs are applied, otherwise real isotropic RIR is applied
+* base_rirs="simulated" : simulated RIRs are applied, otherwise real isotropic RIR is applied
 
 ## Miscellaneous
 
