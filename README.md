@@ -1,16 +1,18 @@
 # speech_reverb.ko
 This repository includes scripts for reverberation WAV file creation.
 
-fv01_t01_s01: 
+You can play back by clicking the following utterance IDs.
+
+[fv01_t01_s01](https://soundcloud.com/user-623907374/fv01-t01-s01): 
 ![alt text](https://github.com/homink/speech_reverb/blob/master/fv01_t01_s01.PNG)
 
-rev1_fv01_t01_s01: 
+[rev1_fv01_t01_s01](https://soundcloud.com/user-623907374/rev1-fv01-t01-s01): 
 ![alt text](https://github.com/homink/speech_reverb/blob/master/rev1_fv01_t01_s01.PNG)
 
-rev2_fv01_t01_s01: 
+[rev2_fv01_t01_s01](https://soundcloud.com/user-623907374/rev2-fv01-t01-s01): 
 ![alt text](https://github.com/homink/speech_reverb/blob/master/rev2_fv01_t01_s01.PNG)
 
-rev3_fv01_t01_s01: 
+[rev3_fv01_t01_s01](https://soundcloud.com/user-623907374/rev3-fv01-t01-s01): 
 ![alt text](https://github.com/homink/speech_reverb/blob/master/rev3_fv01_t01_s01.PNG)
 
 ## Dependency
