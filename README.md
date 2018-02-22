@@ -73,7 +73,7 @@ rev3_fv01_t01_s10.wav
 
 ## Configuration
 
-run.sh includes several variables to control reverberation WAV file creation. Here is a few information
+[run.sh](https://github.com/homink/speech_reverb/blob/master/run.sh) includes several variables to control reverberation WAV file creation. Here is a few information
 
 * num_data_reps : the number of reverberation wav files for creation
 * foreground/background_snrs : signal-to-noise ratios when additive noise is applied
