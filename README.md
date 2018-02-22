@@ -11,7 +11,7 @@ You can play back by clicking the following WAV file names.
 
 ## Dependency
 
-[kaldi](https://github.com/kaldi-asr/kaldi)
+[kaldi](https://github.com/kaldi-asr/kaldi), Python2.7, [sox](http://sox.sourceforge.net/)
 
 Only [wav-reverberate](https://github.com/kaldi-asr/kaldi/blob/master/src/featbin/wav-reverberate.cc) is used here but several kaldi utils are running in back-end. Future work would be bailing out necessary parts.
 
