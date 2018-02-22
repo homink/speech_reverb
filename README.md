@@ -1,7 +1,7 @@
 # speech_reverb
 This repository includes scripts for reverberation WAV file creation.
 
-You can play back by clicking the following utterance IDs.
+You can play back by clicking the following WAV file names.
 
 | [fv01_t01_s01.wav](https://soundcloud.com/user-623907374/fv01-t01-s01) | [rev1_fv01_t01_s01.wav](https://soundcloud.com/user-623907374/rev1-fv01-t01-s01) |
 :-------------------------:|:-------------------------:
