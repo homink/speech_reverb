@@ -1,4 +1,4 @@
-# speech_reverb.ko
+# speech_reverb
 This repository includes scripts for reverberation WAV file creation.
 
 You can play back by clicking the following utterance IDs.
